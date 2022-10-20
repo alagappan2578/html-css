@@ -4,6 +4,7 @@
 	border:3px solid;
 	border-style: outset;
 	cursor:pointer;
+	margin: 4px;
 }
 .btn-primary {
 	background-color:green;
